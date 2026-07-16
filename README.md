@@ -1,3 +1,3 @@
-# Hi 👋, I'm Fabian #
-## From chemisty to software development. ##
+# Hi 👋, I'm Fabian. Follow me on the road from chemisty to software development. #
+
 
