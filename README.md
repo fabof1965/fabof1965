@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fabian</h1>
 <h3 align="center">Follow me on the road from chemisty to software development.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<table>
+<h3 align="center">Languages and Tools:</h3>
+<table align="center">
 	<tr>
 		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></td>
 		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual     Studio Code" title="Visual Studio Code"/></td>
