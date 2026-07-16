@@ -1,3 +1,3 @@
-<h1 align="center">Hi 👋, I'm Fabian</h1>
+# Hi 👋, I'm Fabian #
+## From chemisty to software development. ##
 
-<h2 align="center">From chemisty to software development.</h2>
