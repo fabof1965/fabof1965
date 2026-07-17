@@ -3,31 +3,39 @@
 <h3 align="center">Follow me on my road from chemisty to software development.</h3>
 
 ---
-# 💫 About Me
-My name is Fabian.
-I'm a qualified chemical technical assistant and passionate gamer. That's why I've decided to make a turn and started learning software development.
-
-My starting point was Visual Basic for Applications. After some practice I continued my journey with the language C++. 
-
-It was very diffrent from Visual Basic for Applications. 
-I learned a lot about scopes, data types, pointers and references, algorithms and so much more.
-
-Currently I'm learning Frontend development and plan to go towards Fullstack development.
+<h2 align="center"> 💫 About Me</h2>
+🌱 Currently on the way to web development (HTML, CSS, JavaScript)-Frontend and Backend <br>
+⚙️ Basics in C++, e.g. Data structures and algorithms such as linked lists and buble sort algorithm <br>
+🎮 interested in game development <br>
+💻 Windows user <br>
 
 ---
 
-# 🛠️ Tech Stack
-## Code Editor
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+<h2 align="center">🛠️ Tech Stack</h2> 
+<h3 align="center"> Frontend </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
 
-## Programing Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+<h3 align="center"> Backend & Database </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  </a>
+</p>
 
-## Database
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+<h3 align="center"> Software development </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+</p>
 
-## Version Control  
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-
-
+<h3 align="center"> Version Control </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
