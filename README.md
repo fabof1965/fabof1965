@@ -4,6 +4,7 @@
 
 ---
 <h2 align="center"> 💫 About Me</h2>
+
 🌱 Currently on the way to web development (HTML, CSS, JavaScript)-Frontend and Backend <br>
 
 ⚙️ Basics in C++, e.g. Data structures and algorithms such as linked lists and buble sort algorithm <br>
