@@ -7,7 +7,7 @@
 
 🌱 Currently on the way to web development (HTML, CSS, JavaScript)-Frontend and Backend <br>
 
-⚙️ Basics in C++, e.g. Data structures and algorithms such as linked lists and buble sort algorithm <br>
+⚙️ Basics in C++, e.g. passing by reference vs passing by value, raw pointers and smartpointers, objects and classes, inheritance <br>
 
 🎮 interested in game development <br>
 
